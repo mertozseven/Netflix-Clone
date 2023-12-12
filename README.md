@@ -36,6 +36,6 @@ https://github.com/SDWebImage/SDWebImage.git
 
 ## Authors
 
-* **Mert Ozseven** - *Junior iOS Developer* - [Mert Ozseven](https://github.com/mertozseven/)
+* **[Mert Ozseven](https://github.com/mertozseven/)** - *Junior iOS Developer*
 
 
