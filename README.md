@@ -38,4 +38,10 @@ https://github.com/SDWebImage/SDWebImage.git
 
 * **[Mert Ozseven](https://github.com/mertozseven/)** - *Junior iOS Developer*
 
+## Demonstration
+
+https://github.com/mertozseven/Netflix-Clone/assets/75128197/5fc2c4df-80d9-42b1-85b2-479b80525126
+
+
+
 
